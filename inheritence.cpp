@@ -107,7 +107,7 @@ int main() {
   doctorMelisa.greeting();
 
   // I just have to make the names extremly long
-  // I can't help my self
+  // I can't help myself
   SoftwareManeger softwareManegerBarf("Barf", "Simpson", 28, 666.666);
 
   std::cout << '\n' << softwareManegerBarf.name << " " << softwareManegerBarf.surname << " ,age: "  << softwareManegerBarf.age << '\n';
@@ -124,4 +124,5 @@ int main() {
   
 
   return 0;
+
 }

@@ -13,5 +13,6 @@ what the "(windows) Launch" does is it runs the program
 in command prompt (cmd)
 
 the classes files just speak for them selves
-I don't need to explain how they wrok here
+I don't need to explain how they work here
+
 (I explained the important parts in the files)
